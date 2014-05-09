@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Filters>
+	<Filter name="One" sound="tada" sendmail="You've got mail">
+		<before><![CDATA[<EM><FONT size="3">]]></before>
+		<after><![CDATA[</FONT></EM>]]></after>
+	</Filter>
+	<Filter name="Two" sound="ding" sendmail="Nobody cares">
+		<before><![CDATA[<P>Now is the time...]]></before>
+		<after><![CDATA[</P>]]></after>
+	</Filter>
+</Filters>
